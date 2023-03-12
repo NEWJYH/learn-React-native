@@ -1,0 +1,29 @@
+
+{
+  "base": "stations",
+  "clouds": { "all": 100 },
+  "cod": 200,
+  "coord": { "lat": 35.0581, "lon": 126.9788 },
+  "dt": 1678588601,
+  "id": 1843841,
+  "main": {
+    "feels_like": 277.92,
+    "grnd_level": 1013,
+    "humidity": 91,
+    "pressure": 1021,
+    "sea_level": 1021,
+    "temp": 281.3,
+    "temp_max": 281.3,
+    "temp_min": 281.3
+  },
+  "name": "Hwasun",
+  "rain": { "1h": 2.46 },
+  "sys": { "country": "KR", "sunrise": 1678571288, "sunset": 1678613769 },
+  "timezone": 32400,
+  "visibility": 10000,
+  "weather": [
+    { "description": "moderate rain", "icon": "10d", "id": 501, "main": "Rain" }
+  ],
+  "wind": { "deg": 314, "gust": 11.48, "speed": 6.36 }
+}
+
